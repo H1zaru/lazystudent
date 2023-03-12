@@ -1,0 +1,5 @@
+﻿  circle.cpp
+C:\Users\guket\Desktop\Практика 1\Задание 2\circle\circle\circle.cpp(21,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  circle.vcxproj -> C:\Users\guket\Desktop\Практика 1\Задание 2\circle\x64\Debug\circle.exe
